@@ -1,0 +1,4 @@
+Repositório original do expert: https://github.com/expert/projeto-base
+Template Figma: https://www.figma.com/community/template-exemplo
+Artigo Medium: https://medium.com/seu-artigo-aqui
+Ebook: https://github.com/Sobrera25/Ebook/blob/main/ebook.pdf
