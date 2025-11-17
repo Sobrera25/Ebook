@@ -1,0 +1,5 @@
+Prompt 1: Crie um layout responsivo para uma landing page usando HTML e CSS.
+Prompt 2: Gere um script em JavaScript para validação de formulário.
+Prompt 3: Sugira melhorias para acessibilidade no projeto.
+Prompt 4: Crie um README.md completo para o projeto.
+Prompt 5: Gere um ebook explicativo sobre Git e GitHub.
